@@ -1,5 +1,5 @@
 # Equipe 54
-Como consequência da plataforma AJUTE esperamos uma aceleração da conexão entre colaborador e empregador fazendo com que a economia da nova realidade gire mais rapidamente e consequentemente cresça gerando mais postos de trabalho.
+Como consequência da plataforma EmpregoConectado esperamos uma aceleração da conexão entre colaborador e empregador fazendo com que a economia da nova realidade gire mais rapidamente e consequentemente cresça gerando mais postos de trabalho.
 
 ## 🚀  Utilização
 
