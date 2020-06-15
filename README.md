@@ -1,7 +1,7 @@
 # Equipe 54
 Como consequência da plataforma AJUTE esperamos uma aceleração da conexão entre colaborador e empregador fazendo com que a economia da nova realidade gire mais rapidamente e consequentemente cresça gerando mais postos de trabalho.
 
-## 🚀 Utilização
+## 🚀  Utilização
 
 <h3>Atualizações</h3>
 <ul>
@@ -11,11 +11,11 @@ Como consequência da plataforma AJUTE esperamos uma aceleração da conexão en
 </ul>
 
 
-## 📖 Documentação
+## 📖  Documentação
 
 :point_right: A documentação completa estará disponível [AQUI](DOCUMENTATION.md).
 
-## ✍ Autores
+## ✍  Autores
 👤 **Felipe Candian (emcomp.com.br)**
 
 * Github: [@felipecandian](https://github.com/felipecandian)
@@ -39,7 +39,7 @@ Como consequência da plataforma AJUTE esperamos uma aceleração da conexão en
 
 
 
-## 🤝 Contribuição
+## 🤝  Contribuição
 
 Esse é um projeto cujo objetivo é servir de intermediador entre empresas com demandas de profissionais e profissionais com demandas de vagas, seja por recolocação, primeiro emprego etc.
 
